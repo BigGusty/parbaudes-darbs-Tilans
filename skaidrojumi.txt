@@ -1,0 +1,4 @@
+1. Atveru žurnālfailu.
+2. Atrodu visas rindas kur kļūdas.
+3. Apskatu, kurā stundā kļūdas notikušas.
+4. Saskaitu kļūdas katrā stundā un nosaku, kur ir visvairāk.
